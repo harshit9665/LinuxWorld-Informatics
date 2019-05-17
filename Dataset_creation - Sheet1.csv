@@ -1,0 +1,102 @@
+Resturant ID,Cost for two,Free Home delivery,Locality,Profit
+1,500,1,Malviya nagar,595670
+2,300,0,Mansarovar,236250
+3,500,1,Tonk Road,570356
+4,300,0,Vaishali Nagar,360000
+5,1200,1,Civil Lines,1443456
+6,300,0,Raja Park,244172
+7,250,0,Civil Lines,196875
+8,600,1,Sindi Camp,723986
+9,1500,1,Tonk Road,1805678
+10,700,1,Malviya nagar,845999
+11,250,0,Vaishali Nagar,307541
+12,300,0,Mansarovar,136792
+13,1200,1,C Scheme,1447900
+14,300,0,Tonk Road,236250
+15,300,0,Malviya nagar,249500
+16,750,1,Raja Park,907556
+17,300,0,Vaishali Nagar,255672
+18,600,1,Malviya nagar,732894
+19,350,0,Tonk Road,423092
+20,200,0,Sindi Camp,90000
+21,100,0,Civil Lines,46789
+22,1500,1,Malviya nagar,455625
+23,250,0,Vaishali Nagar,170500
+24,500,1,Mansarovar,393800
+25,400,1,Raja Park,187000
+26,250,0,Tonk Road,310010
+27,900,1,Civil Lines,1080000
+28,1400,1,C Scheme,1680070
+29,700,1,Vaishali Nagar,315600
+30,200,0,Malviya nagar,170500
+31,1200,1,Raja Park,543098
+32,1000,1,Vaishali Nagar,972093
+33,250,0,Mansarovar,112500
+34,250,0,Tonk Road,134600
+35,800,1,Malviya nagar,960000
+36,500,0,Sindi Camp,393750
+37,200,0,Mansarovar,280500
+38,1000,1,Raja Park ,1210000
+39,300,0,Civil Lines,135600
+40,1000,1,Vaishali Nagar,1150000
+41,1800,1,C Scheme,2060000
+42,250,0,Malviya nagar,325000
+43,200,0,Tonk Road,240000
+44,800,1,Raja Park,630000
+45,1200,1,Civil Lines,1442000
+46,650,1,Mansarovar,511875
+47,700,1,Tonk Road,551250
+48,400,0,Sindi Camp,315425
+49,150,0,Malviya nagar,67500
+50,300,0,Raja Park ,360000
+51,450,1,Mansarovar,540600
+52,900,1,Vaishali Nagar,1080300
+53,600,1,Tonk Road,472500
+54,600,1,Mansarovar,475200
+55,700,1,C Scheme,843200
+56,4200,1,Civil Lines,5040000
+57,1000,1,Vaishali Nagar,787500
+58,2500,1,Malviya nagar,2985500
+59,300,0,Mansarovar,362400
+60,600,1,Raja Park ,642800
+61,400,1,Civil Lines,177400
+62,300,0,Malviya nagar,236250
+63,600,0,Sindi Camp,474500
+64,500,1,Tonk Road,394000
+65,500,1,Vaishali Nagar,590000
+66,400,1,Civil Lines,315450
+67,550,1,Mansarovar,655000
+68,1000,1,C Scheme,1175000
+69,250,0,Tonk Road,112450
+70,450,1,Malviya Nagar,163400
+71,1600,1,Tonk Road,1915000
+72,500,0,Sindi Camp,390000
+73,1200,1,Tonk Road,1445670
+74,1000,1,"Raja park
+",1165900
+75,1000,0,Sindi Camp,455250
+76,800,1,Tonk Road,972600
+77,2000,1,C Scheme,2435000
+78,900,0,Sindi Camp,1080000
+79,200,1,Tonk Road,245671
+80,1100,1,C Scheme,866250
+81,600,1,Sindi Camp,728032
+82,1200,1,Vaishali Nagar,543210
+83,4000,1,Tonk Road,4843890
+84,1000,1,C Scheme,1233500
+85,1400,1,Civil Lines,1102500
+86,300,0,Sindi Camp,367250
+87,800,1,Tonk Road,965400
+88,1000,1,Mansarovar,1275000
+89,150,0,Tonk Road,67500
+90,600,1,C Scheme,724900
+91,600,1,Sindi Camp,725800
+92,1000,1,C Scheme,1255000
+93,300,0,Malviya Nagar,361000
+94,1200,1,Tonk Road,1445500
+95,400,0,C Scheme,485600
+96,900,1,Malviya Nagar,405200
+97,600,1,Sindi Camp,722600
+98,1800,1,C Scheme,2160500
+99,800,1,Civil Lines,967000
+100,1000,1,C Scheme,1233900
